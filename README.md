@@ -1,5 +1,5 @@
 ### Ссылка на репозиторий:
-https://github.com/antipin-ia/posmotri_v_okno
+https://github.com/antipin-ia/zakrivayuschiy-teg-f
 
 # проект "Закрывающий тег"
 
